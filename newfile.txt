@@ -1,1 +1,2 @@
 This is our new file!
+Added a new line to our text file!
